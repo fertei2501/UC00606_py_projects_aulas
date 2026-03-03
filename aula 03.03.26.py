@@ -1,10 +1,10 @@
 #Faça um Programa que peça um valor e mostre na consola se o valor é positivo ou negativo.
 
-num = 0
+num = 2
 if num > 0:
-    print(f"{num} é positivo")
+    print(f"{num} é um número positivo")
 else:
-    print(f"{num} é negativo")
+    print(f"{num} é um número negativo")
 
 print("------------")
 # Faça um Programa que verifique se uma letra digitada é "F" ou "M".
