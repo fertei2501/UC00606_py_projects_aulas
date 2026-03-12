@@ -13,13 +13,13 @@ print("------------")
 #   M - Masculino,
 #   Sexo Inválido
 
-letra = "M"
-if letra == "M":
-    print(f"{letra} é Masculino")
-elif letra == "F":
-    print(f"{letra} é Feminino")
+genero = "M"
+if genero == "M":
+    print(f"{genero} é Masculino")
+elif genero == "F":
+    print(f"{genero} é Feminino")
 else:
-    print(f"{letra} é sexo Inválido")
+    print(f"{genero} é sexo Inválido")
 
 #fim codigo
 print("-----------")
@@ -42,8 +42,8 @@ print("-----------")
 
 nota1 = float(input("nota 1: "))
 nota2 = float(input("nota 2: "))
-soma = nota1 + nota2
-media = soma / 2
+media = (nota1 + nota2) / 2
+print(f"a media foi {media:.2f}")
 if media == 20:
     print(f"Aprovado com Distinção")
 elif media >= 10:
