@@ -4,7 +4,6 @@
     <list default="true" id="bff3c3e6-370f-4021-9d16-10265ec5cf7c" name="Changes" comment="aula 17.03.26">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aula 17.03.26.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula 17.03.26.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prog ler max 100 com while.py" beforeDir="false" afterPath="$PROJECT_DIR$/prog ler max 100 com while.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -310,7 +309,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773774913232</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="aula 17.03.26">
+      <option name="closed" value="true" />
+      <created>1773778807657</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1773778807657</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -31,3 +31,40 @@ print("-----------")
 # range(7, 10, 3)
 print(list(range(7, 10, 3))) # 7
 print("-----------")
+
+for i in range(5):
+  print(i)
+
+print("-----------")
+for num in range(3, 8, 2):
+  print(num)
+
+print("-----------")
+#faça um programa que calcule a tabuada do 2, deve usar um for:
+tabuada = int(input("tabuada: "))
+for i in range(10):
+    aux = i + 1
+    print(f"{tabuada} x {aux:2} = {aux * tabuada:2}")
+
+print("-----------")
+print(f"Tabuada do numero 2:")
+for num in range(1, 11):
+    resultado = 2 * num
+    print(f"2 x {num} = {resultado}")
+
+print("-----------")
+# calcule o fatorial de n, o valor n deve ser pedido ao utilizador; deve usar um for
+n = 3
+fatorial = 1
+for i in range(1, n + 1):
+    fatorial *= i
+print(f"O fatorial de {n} é {fatorial}")
+
+print("-----------")
+n = 4
+fatorial = 1
+for i in range(n, 1, -1):
+    fatorial *= i
+print(f"{n}! = {fatorial}")
+
+print("-----------")
