@@ -13,5 +13,5 @@ while curr <= max_num:
     if n < 0:
         break
     curr += 1
-
+# while repete o código enquanto a condição for verdadeira
 print("-----------")
