@@ -1,5 +1,7 @@
 """
-for repete um número determinado numero de vezes
+for repete valores um determinado número de vezes (sabemos quantas vezes repetir)
+while repete valores um indeterminado números de vezes (não sabemos quantas vezes repetir,
+ou queremos repetir indefinidamente)
 """
 """
 ## range (gera um intervalo de numeros sequenciais)
