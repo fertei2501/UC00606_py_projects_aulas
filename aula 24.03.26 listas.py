@@ -66,3 +66,8 @@ print(lista2)
 for num in lista2: # faz o mesmo que print(lista2) mas mostra cada elemento individualmente
     print("elemento:", num)
 print("-----------")
+
+lst = [1, 2, 3, 4, 5, 6]
+lst.sort(reverse=True)
+print(lst)
+print("-----------")
