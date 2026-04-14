@@ -51,9 +51,9 @@ print(numeros[::2]) # Mostrar os números de 2 em 2
 print("---------------")
 print(numeros[:-5:-1]) # Mostrar os últimos 4 números invertidos
 print("---------------")
-print(numeros[0:]) # todos os valores pares
+print(numeros[::2]) # todos os valores pares
 print("---------------")
-print # a soma de todos os ímpares
+print(sum(numeros[1::2])) # a soma de todos os valores com índices ímpares (1, 3, 5, 7)
 print("---------------")
 print(sum(numeros[-2:])) # soma os ultimos 2
 print("---------------")
