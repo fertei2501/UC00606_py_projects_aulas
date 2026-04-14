@@ -19,7 +19,6 @@
 -- Nova --
 9 Cria uma função chamada tabuada que receba um número e imprima a tabuada desse número (de 1 a 10).
 """
-from unicodedata import numeric
 
 
 #1 Crie uma função msg  que mostre a msg ola mundo
