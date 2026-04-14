@@ -60,7 +60,7 @@ print("-----------------")
 def media(num1, num2):
     media = (num1 + num2) / 2
     print(media)
-media(5, 6)
+media(12, 16)
 print("-----------------")
 
 #6 Cria uma função chamada par_ou_impar que receba um número e devolva:
@@ -80,7 +80,7 @@ print("-----------------")
 def maior(num1, num2):
     return max(num1, num2)
 result = maior(6, 2)
-print(f"O número Maior é:", result )
+print(f"O número Maior é", result )
 print("-----------------")
 
 #8 Cria uma função chamada positivo_negativo que receba um número e devolva:

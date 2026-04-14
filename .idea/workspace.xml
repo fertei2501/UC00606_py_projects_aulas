@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bff3c3e6-370f-4021-9d16-10265ec5cf7c" name="Changes" comment="exercícios funcs aula 14/04/26" />
+    <list default="true" id="bff3c3e6-370f-4021-9d16-10265ec5cf7c" name="Changes" comment="exercícios funcs aula 14/04/26">
+      <change beforePath="$PROJECT_DIR$/exercicios funcs.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios funcs.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -402,7 +404,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776206253309</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="exercícios funcs aula 14/04/26">
+      <option name="closed" value="true" />
+      <created>1776206328676</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1776206328676</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
