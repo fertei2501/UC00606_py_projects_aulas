@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bff3c3e6-370f-4021-9d16-10265ec5cf7c" name="Changes" comment="exercícios funcs aula 14/04/26">
+      <change afterPath="$PROJECT_DIR$/exer funcoes 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercicios funcs.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercicios funcs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,10 +57,12 @@
     "Python.aula 24.03.26 listas (1).executor": "Run",
     "Python.aula 24.03.26.executor": "Run",
     "Python.ex max 100 while.executor": "Run",
+    "Python.exer funcoes 2.executor": "Run",
     "Python.exercicio funcs.executor": "Run",
     "Python.exercicios 1 e 2.executor": "Run",
     "Python.exercicios 3 e 4.executor": "Run",
     "Python.exercicios 5 e 6.executor": "Run",
+    "Python.exercicios funcs (1).executor": "Run",
     "Python.exercicios funcs.executor": "Run",
     "Python.exercicios.executor": "Run",
     "Python.main (1).executor": "Run",
@@ -71,7 +75,7 @@
     "settings.editor.selected.configurable": "reference.settings.ide.settings.spelling"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.exercicios funcs">
+  <component name="RunManager" selected="Python.exer funcoes 2">
     <configuration name="aula 07.04.26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UC00606 py projects" />
       <option name="ENV_FILES" value="" />
@@ -95,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula 24.03.26 listas (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exer funcoes 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UC00606 py projects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,7 +113,30 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula 24.03.26 listas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exer funcoes 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercicios funcs (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UC00606 py projects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios funcs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,36 +191,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="UC00606 py projects" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../UC00606 - Desenvolver programas em linguagem estruturada/material apoio UC00606/CET.CIBS.N.L.111/UC00606 - Desenvolver programas em linguagem estruturada/05_rev" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../UC00606 - Desenvolver programas em linguagem estruturada/material apoio UC00606/CET.CIBS.N.L.111/UC00606 - Desenvolver programas em linguagem estruturada/05_rev/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exer funcoes 2" />
+        <item itemvalue="Python.exercicios funcs (1)" />
         <item itemvalue="Python.exercicios funcs" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.aula 07.04.26" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.aula 24.03.26 listas (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -412,7 +416,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776206328676</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="exercícios funcs aula 14/04/26">
+      <option name="closed" value="true" />
+      <created>1776206845539</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1776206845539</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
