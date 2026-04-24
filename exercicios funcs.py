@@ -58,9 +58,11 @@ print("-----------------")
 
 #5 Cria uma função chamada media que receba dois números e devolva a média.
 def media(num1, num2):
-    media = (num1 + num2) / 2
-    print(media)
-media(12, 16)
+    soma = num1 + num2
+    media = soma / 2
+    return media
+res = media(12, 16)
+print(f"A média é", res)
 print("-----------------")
 
 #6 Cria uma função chamada par_ou_impar que receba um número e devolva:
@@ -100,3 +102,10 @@ print(f"O número {input_number} é", resultado)
 print("-----------------")
 
 #9 Cria uma função chamada tabuada que receba um número e imprima a tabuada desse número (de 1 a 10).
+def tabuada(n):
+    print(f"Tabuada do número {n}:")
+    for i in range(1, 11):
+        calc = n * i
+        print(f"{n} x {i} = {calc}")
+tabuada(5)
+print("-----------------")
