@@ -53,6 +53,5 @@ def validarEmail(email):
         return "Email inválido!"
 
 # Teste
-email_utilizador = input("Escreve o teu email: ")
-print(validarEmail(email_utilizador))
+print(validarEmail("ninja_das_caldas@sapo.pt"))
 
