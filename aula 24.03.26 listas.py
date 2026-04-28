@@ -63,6 +63,7 @@ for i in range(1,6):
     num = int(input(f"Digite o {i}º número: "))
     lista2.append(num)
 print(lista2)
+print("-----------")
 for num in lista2: # faz o mesmo que print(lista2) mas mostra cada elemento individualmente
     print("elemento:", num)
 print("-----------")
